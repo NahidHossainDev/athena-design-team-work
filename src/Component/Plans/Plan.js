@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
 import classes from './plan.module.css'
-import extra from './extra.css'
+import './extra.css'
 const Plan = () => {
     return (
         <div className={classes.plansContainer}>
