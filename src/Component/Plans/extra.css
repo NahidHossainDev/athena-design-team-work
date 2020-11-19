@@ -1,0 +1,23 @@
+body {
+    background: #FAFFFD;
+  }
+  .logo{
+    height: 55px;
+    width: 90px;
+  }
+  .feature-img{
+    height: 450px;
+    width: 450px;
+  }
+  .btn-all{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 44px;
+    width: 125px;
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, #1BD5BE, #2DB9EF 90%) repeat scroll 0% 0%;
+    border: none;
+    color: #fff;
+  }
+  .sectionHeader {
+    color: #0D052E;
+  }
