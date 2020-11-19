@@ -1,13 +1,5 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-// import siteLogo from '../../../resource/Illustration/logo.png';
-// import fb from '../../../resource/Illustration/fb.png'
-// import dribble from '../../../resource/Illustration/dribble.png';
-// import twitter from '../../../resource/Illustration/twitter.png';
-// import linkedin from '../../../resource/Illustration/linkedin.png';
-
-
-
 import siteLogo from '../images/Group 86.png';
 import fb from  '../images/facebook-logo-in-circular-shape@2x.png'
 import dribble from '../images/dribbble (1)@2x.png';
