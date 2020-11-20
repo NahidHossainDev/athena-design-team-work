@@ -5,7 +5,7 @@ import Surface from "../images/surface1@2x.png";
 import Transportation from "../images/transportation@2x.png";
 const OurAchivment = () => {
     return (
-      <section className="achievements">
+      <section className="achievements" id="ourTeam">
         <div className="container">
           <div className="row">
             <div className="col-lg-5 d-flex align-items-center">

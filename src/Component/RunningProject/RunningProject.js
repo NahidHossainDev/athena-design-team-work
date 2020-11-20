@@ -2,7 +2,7 @@ import React from 'react';
 import Img from "../images/20 [Converted]@2x.png"
 const RunningProject = () => {
     return (
-      <section>
+      <section id="/service">
         <div className="container">
           <div className="row">
             <div className="col-md-6">

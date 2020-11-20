@@ -4,7 +4,7 @@ import classes from './plan.module.css'
 import './extra.css'
 const Plan = () => {
     return (
-        <div className={classes.plansContainer}>
+        <div className={classes.plansContainer} id="pricing">
             <Container>
                 <h2 style={{"text-align":"center", "margin-bottom":"60px"}} className="sectionHeader">Choose your dedicated team.</h2>
                 <Row>

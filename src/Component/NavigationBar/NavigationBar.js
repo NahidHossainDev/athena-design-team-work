@@ -22,7 +22,8 @@ const NavigationBar = () => {
                                 <Nav.Link href="#ourTeam" className="px-4">Our Team</Nav.Link>
                             </Nav>
                         </div>
-                        <Button className="gradient-btn">Contact</Button>
+              
+                        <Button  className="gradient-btn"> <a href="#contact">Contact</a></Button>
                     </Navbar.Collapse>
                 </Navbar>
             </div>
