@@ -1,6 +1,7 @@
 body {
   margin: 0;
- font-family: 'Philosopher', sans-serif;
+  font-family: 'Yeseva One', cursive;
+ /* font-family: 'Philosopher', sans-serif; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -8,4 +9,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+p{
+  color:#a3a3a3;
+  margin-top: 1.5em;
+  font-size: 1em;
 }

@@ -5,13 +5,20 @@ import OurAchivment from './Component/OurAchivment/OurAchivment';
 import Footer from './Component/Footer/Footer';
 import Plan from './Component/Plans/Plan';
 import Contact from './Component/Contact/Contact';
+import NavigationBar from './Component/NavigationBar/NavigationBar';
+import FlorenceAgency from './Component/FlorenceAgency/FlorenceAgency';
+import WeDoSection from './Component/WeDoSection/WeDoSection';
+
 
 function App() {
   return (
     <div>
+      <NavigationBar></NavigationBar>
+      <FlorenceAgency></FlorenceAgency>
+      <WeDoSection></WeDoSection>
       <RunningProject />
       <OurAchivment />
-      <Plan/>
+      <Plan />
       <Contact></Contact>
       <Footer />
     </div>

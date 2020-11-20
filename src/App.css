@@ -1,3 +1,43 @@
+
+/* NavigationBar start */
+ .nav{
+  margin-right: auto !important;
+  width: 1050px;
+} 
+.gradient-btn{
+  border: none;
+  background-image: linear-gradient(110deg, #1CD8BA 10%, #08AEEB 100%);
+  padding:15px 20px;
+  border-radius: 35px 0px 35px 0px;
+  font-size: 1.1em;
+}
+/* NavigationBar end */
+
+/* Florence Agency start */
+.title-des h1{
+  font-size: 4.5vw;
+}
+/* Florence Agency end */
+
+/* what We Do start */
+
+.heading-text h2{
+  font-size: 2.5em;
+}
+.card-title{
+  font-size: 1.3em;
+  color: #34285c;
+}
+
+.service-card:hover{
+  background: #ffffff;
+  border: none;
+  border-radius: 100px 0px 100px 0px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: all 1s;
+}
+/* what We Do end*/
+
 section{
   padding: 50px 0px;
 }
