@@ -2,11 +2,7 @@ import React from 'react';
 import Img from "../images/20 [Converted]@2x.png"
 const RunningProject = () => {
     return (
-<<<<<<< HEAD
       <section className="running-area">
-=======
-      <section id="/service">
->>>>>>> 890fd752b72bcaa1b11ba52719d9eb0efc22284a
         <div className="container">
           <div className="row">
             <div className="col-md-6">
