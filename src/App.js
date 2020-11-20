@@ -12,6 +12,11 @@ import WeDoSection from './Component/WeDoSection/WeDoSection';
 function App() {
   return (
     <div>
+<<<<<<< HEAD
+=======
+
+      <NavigationBar></NavigationBar>
+>>>>>>> 890fd752b72bcaa1b11ba52719d9eb0efc22284a
       <FlorenceAgency></FlorenceAgency>
       <WeDoSection></WeDoSection>
       <RunningProject />
