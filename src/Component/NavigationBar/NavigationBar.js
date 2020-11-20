@@ -6,13 +6,13 @@ import logoImg from '../images/Group 86.png'
 const NavigationBar = () => {
     return (
         <div className="nav-section">
-            <div className="container">
+            <div>
                 <Navbar expand="lg">
                     <Navbar.Brand href="#home">
                         <img className="ml" style={{ height: '90px', }} src={logoImg} alt="" />
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                    <Navbar.Collapse id="basic-navbar-nav">
+                    <Navbar.Collapse id="basic-navbar-nav" >
                         <div className="nav">
                             <Nav className="nav  d-flex justify-content-end">
                                 <Nav.Link href="#home" activeClassName="active" className="px-4">Home</Nav.Link>

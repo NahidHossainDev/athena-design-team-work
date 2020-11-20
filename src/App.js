@@ -13,6 +13,7 @@ import WeDoSection from './Component/WeDoSection/WeDoSection';
 function App() {
   return (
     <div>
+
       <NavigationBar></NavigationBar>
       <FlorenceAgency></FlorenceAgency>
       <WeDoSection></WeDoSection>
