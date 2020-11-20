@@ -10,7 +10,7 @@ import classes from './footer.module.css';
 
 const Footer = () => {
     return (
-        <div className="footerContainer">
+        <div className="footerContainer" id="service">
             <Container>
                 <Row className={classes.footer}>
                     <Col md={4}> 
