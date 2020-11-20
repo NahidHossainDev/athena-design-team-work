@@ -4,13 +4,15 @@ import florenceImg from '../images/16 [Converted]@2x.png'
 import NavigationBar from '../NavigationBar/NavigationBar';
 
 const FlorenceAgency = () => {
-    return (
-<<<<<<< HEAD
-        <section className="agency-area">
+    return ( 
+
+        <div>
+  <section className="agency-area">
             <NavigationBar></NavigationBar>
-=======
+          </section>
+
         <section id="about">
->>>>>>> 890fd752b72bcaa1b11ba52719d9eb0efc22284a
+
             <div className="container my-5 pt-3  ">
                 <div className="row">
                     <div className="col-md-6 ">
@@ -26,6 +28,9 @@ const FlorenceAgency = () => {
                 </div>
             </div>
         </section>
+        </div>
+
+      
     );
 };
 
