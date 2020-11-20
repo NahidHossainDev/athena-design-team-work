@@ -1,10 +1,12 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 import florenceImg from '../images/16 [Converted]@2x.png'
+import NavigationBar from '../NavigationBar/NavigationBar';
 
 const FlorenceAgency = () => {
     return (
-        <section>
+        <section className="agency-area">
+            <NavigationBar></NavigationBar>
             <div className="container my-5 pt-3  ">
                 <div className="row">
                     <div className="col-md-6 ">

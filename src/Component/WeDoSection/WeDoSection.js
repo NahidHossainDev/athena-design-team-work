@@ -31,7 +31,7 @@ const serviceData = [
 
 const WeDoSection = () => {
     return (
-        <section>
+        <section className="weDo-area">
             <div className="container ">
                 <div className="heading-text text-center">
                     <h2>What we do</h2>

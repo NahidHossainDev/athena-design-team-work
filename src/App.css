@@ -4,6 +4,10 @@
   margin-right: auto !important;
   width: 1050px;
 } 
+.bg-header{
+   
+   
+}
 .gradient-btn{
   border: none;
   background-image: linear-gradient(110deg, #1CD8BA 10%, #08AEEB 100%);
@@ -14,13 +18,28 @@
 /* NavigationBar end */
 
 /* Florence Agency start */
+.agency-area{
+  background-image: url(./Component/images/Group@7x.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
 .title-des h1{
   font-size: 4.5vw;
 }
 /* Florence Agency end */
 
 /* what We Do start */
-
+.weDo-area{
+    background-image: url(./Component/images/Athena-2.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
 .heading-text h2{
   font-size: 2.5em;
 }
@@ -48,6 +67,15 @@ section{
   border-top-left-radius:35px;
   border-bottom-right-radius:35px;
   border:none;
+}
+.running-area{
+    background-image: url(./Component/images/Athena-3.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+   
 }
 /** Our  Achievements **/
 .achievements{
